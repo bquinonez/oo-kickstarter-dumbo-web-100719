@@ -6,5 +6,5 @@ class Backer
   def initialize(name)
     @name = name
     
-  en
+  end
 end
